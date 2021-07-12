@@ -3,6 +3,8 @@ The J&amp;K Smart Bin is a simple futuristic trash bin with an embedded system i
 
 
                                 Materials needed:
+                                
+                                fafsdf
 
   1.Trash Bin                                             7.Arduino Uno                                                   
   2.Power supply                                          8.Bread Board
