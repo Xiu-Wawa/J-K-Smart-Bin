@@ -1,7 +1,7 @@
 # J-K-Smart-Bin
 The J&amp;K Smart Bin is a simple futuristic trash bin with an embedded system in automation application that is able to sort paper and plastic automatically.
 
-The Problem-
+The Problem
    Nowadays, we tend to feel the devastating consequences of the wrath of nature because of the misbehavior of people towards environmental policy, in particular, 
 proper waste segregation. Waste segregation in definition is any kind of trash like paper, plastic, recyclable waste, and biodegradable waste being separated 
 for easier recycling and a means to lessen the waste that goes to landfill. Most people will simply throw or litter their garbage in the trash can without proper segregation.
@@ -9,8 +9,8 @@ for easier recycling and a means to lessen the waste that goes to landfill. Most
    With that, this stylish and intelligent trash bin with an embedded system in automation application that will be able to sort the plastic trash automatically and store them
    in separate chambers is the perfect answer for the particular problem.
 
-
-
+                        _______________________________________________________________________________________________________________________________________
+                     
 Significance of the Project
 
 The results of this project would be of great help to the government, students, community, readers and future research in the following ways:
